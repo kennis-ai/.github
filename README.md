@@ -57,7 +57,7 @@ Quer contribuir? Fique à vontade para abrir *issues*, propor melhorias ou envia
 Entre em contato conosco:
 
 - 🌐 Site oficial: [em breve]
-- 📧 E-mail: contato@kennis.com
+- 📧 E-mail: contato@kennis.com.br
 - 💼 LinkedIn: [em breve]
 
 ---
