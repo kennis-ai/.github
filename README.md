@@ -123,7 +123,7 @@ Want to contribute? Feel free to open issues, suggest improvements, or submit pu
 Reach out to us:
 
 - 🌐 Official website: [coming soon]  
-- 📧 Email: contato@kennis.com  
+- 📧 Email: contato@kennis.com.br  
 - 💼 LinkedIn: [coming soon]
 
 ---
